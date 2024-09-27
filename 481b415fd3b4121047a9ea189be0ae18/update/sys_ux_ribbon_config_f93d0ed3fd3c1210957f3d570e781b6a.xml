@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Fromowntemp111 Ribbon Config</description>
+        <name>Fromowntemp111 Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 20:03:11</sys_created_on>
+        <sys_id>f93d0ed3fd3c1210957f3d570e781b6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fromowntemp111 Ribbon Config</sys_name>
+        <sys_package display_value="Fromowntemp111" source="x_snc_fromowntem_0">481b415fd3b4121047a9ea189be0ae18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fromowntemp111">481b415fd3b4121047a9ea189be0ae18</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_f93d0ed3fd3c1210957f3d570e781b6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 20:03:11</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

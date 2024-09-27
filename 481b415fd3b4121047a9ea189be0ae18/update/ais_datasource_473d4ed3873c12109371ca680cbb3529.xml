@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>sampletab Table</name>
+        <retention_policy/>
+        <source>x_snc_fromowntem_0_sampletab</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 20:03:15</sys_created_on>
+        <sys_id>473d4ed3873c12109371ca680cbb3529</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sampletab Table</sys_name>
+        <sys_package display_value="Fromowntemp111" source="x_snc_fromowntem_0">481b415fd3b4121047a9ea189be0ae18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fromowntemp111">481b415fd3b4121047a9ea189be0ae18</sys_scope>
+        <sys_update_name>ais_datasource_473d4ed3873c12109371ca680cbb3529</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 20:03:15</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

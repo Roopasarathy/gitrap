@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="sampletab">8f3d4ed3873c12109371ca680cbb352c</ais_search_source>
+        <label>sampletab</label>
+        <name>sampletab</name>
+        <order>100</order>
+        <search_context_config display_value="Fromowntemp111 AI Search Configuration">313d0ed33d3c12105351b3425a099572</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 20:03:16</sys_created_on>
+        <sys_id>db3d4ed3873c12109371ca680cbb354b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sampletab</sys_name>
+        <sys_package display_value="Fromowntemp111" source="x_snc_fromowntem_0">481b415fd3b4121047a9ea189be0ae18</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fromowntemp111">481b415fd3b4121047a9ea189be0ae18</sys_scope>
+        <sys_update_name>sys_search_filter_db3d4ed3873c12109371ca680cbb354b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 20:03:16</sys_updated_on>
+    </sys_search_filter>
+</record_update>
